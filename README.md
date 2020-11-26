@@ -1,4 +1,4 @@
-# respiration  
+# Respiration rates
   
 R script created by Vanessa Garayburu-Caruso for WHONDRS (https://whondrs.pnnl.gov).
 This code is associated to WHONDRS S19S Campaign and the following ESS-DIVE data package [insert link to ESS-DIVE data package when published].
