@@ -10,7 +10,7 @@ rm(list=ls());graphics.off()
 
 # Set working directory to data file
 #Example:
-setwd("//pnl/projects/SBR_SFA/Campaign C/Hydropeaking_Network/WHONDRS_and_Non-WHONDRS_Data/12_Oxygen_Respiration/ESS-DIVE/Inputs")
+setwd("/Users/Downloads")
 
 
 data = read.csv("DO_data_formatted.csv") #reads all the data from all treatments
