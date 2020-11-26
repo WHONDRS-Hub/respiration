@@ -4,7 +4,7 @@ R script created by Vanessa Garayburu-Caruso for WHONDRS (https://whondrs.pnnl.g
 Data to be used with the script can be found at [insert link to ESS-DIVE data package when published].
   
 ### Code Purpose:
-words
+words TEST VGC
   
 ### Code Actions:
 1 - Import data  
