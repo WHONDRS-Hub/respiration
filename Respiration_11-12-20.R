@@ -25,7 +25,7 @@ ymin = min(data$AVG_DO_mg_per_L)
 
 # Calculate rates per sediment location 
 
-location=c("U","M","D") # Represents upstream, midstream and downstream sediment locations
+location=c("-U","-M","-D") # Represents upstream, midstream and downstream sediment locations
 
 # Creating a matrix to store the rates
 respiration.metrics = as.data.frame(matrix(NA, ncol = 8, nrow=1)) #ncol has to be equal to the number of exported variables
